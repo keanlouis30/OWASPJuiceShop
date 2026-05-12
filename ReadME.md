@@ -12,18 +12,18 @@ Each write-up is available in both Markdown and PDF format.
 
 | Challenge | Category |
 |---|---|
-| [Arbitrary File Write](./Arbitrary%20File%20Write.md) | Injection / Path Traversal |
-| [Forged Coupon](./Forged%20Coupon.md) | Cryptographic Flaw |
-| [Forged Signed JWT](./Forged%20Signed%20JWT.md) | Broken Authentication |
-| [Imaginary Challenge](./Imaginary%20Challenge.md) | Shenanigans |
-| [Login Support Team](./Login%20Support%20Team.md) | Broken Authentication |
-| [Multiple Likes](./Multiple%20Likes.md) | Broken Access Control |
-| [Premium Paywall](./Premium%20Paywall.md) | Broken Access Control |
-| [SSRF](./SSRF.md) | Server-Side Request Forgery |
-| [SSTI](./SSTI.md) | Injection |   
-| [Successful RCE DoS](./Successful%20RCE%20DoS.md) | Remote Code Execution |
-| [Video XSS](./Video%20XSS.md) | Cross-Site Scripting (XSS) |
-| [Wallet Depletion](./Wallet%20Depletion.md) | Web3 / Blockchain |
+| [Arbitrary File Write](./6-Star%20Challenges/Arbitrary%20File%20Write.md) | Injection / Path Traversal |
+| [Forged Coupon](./6-Star%20Challenges/Forged%20Coupon.md) | Cryptographic Flaw |
+| [Forged Signed JWT](./6-Star%20Challenges/Forged%20Signed%20JWT.md) | Broken Authentication |
+| [Imaginary Challenge](./6-Star%20Challenges/Imaginary%20Challenge.md) | Shenanigans |
+| [Login Support Team](./6-Star%20Challenges/Login%20Support%20Team.md) | Broken Authentication |
+| [Multiple Likes](./6-Star%20Challenges/Multiple%20Likes.md) | Broken Access Control |
+| [Premium Paywall](./6-Star%20Challenges/Premium%20Paywall.md) | Broken Access Control |
+| [SSRF](./6-Star%20Challenges/SSRF.md) | Server-Side Request Forgery |
+| [SSTI](./6-Star%20Challenges/SSTI.md) | Injection |   
+| [Successful RCE DoS](./6-Star%20Challenges/Successful%20RCE%20DoS.md) | Remote Code Execution |
+| [Video XSS](./6-Star%20Challenges/Video%20XSS.md) | Cross-Site Scripting (XSS) |
+| [Wallet Depletion](./6-Star%20Challenges/Wallet%20Depletion.md) | Web3 / Blockchain |
 
 ---
 
