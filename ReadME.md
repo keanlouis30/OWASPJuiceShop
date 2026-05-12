@@ -20,6 +20,7 @@ Each write-up is available in both Markdown and PDF format.
 | [Multiple Likes](./Multiple%20Likes.md) | Broken Access Control |
 | [Premium Paywall](./Premium%20Paywall.md) | Broken Access Control |
 | [SSRF](./SSRF.md) | Server-Side Request Forgery |
+| [SSTI](./SSTI.md) | Injection |   
 | [Successful RCE DoS](./Successful%20RCE%20DoS.md) | Remote Code Execution |
 | [Video XSS](./Video%20XSS.md) | Cross-Site Scripting (XSS) |
 | [Wallet Depletion](./Wallet%20Depletion.md) | Web3 / Blockchain |
